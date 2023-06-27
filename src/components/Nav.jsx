@@ -5,7 +5,7 @@ function Nav() {
     <nav>
       <div className='container mx-auto py-4 flex justify-center items-center  '>
         <h1 className='text-4xl font-karla font-semibold text-textBlue'>
-          Quiz App
+          Quizzical
         </h1>
       </div>
     </nav>
